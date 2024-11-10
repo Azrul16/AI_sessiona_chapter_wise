@@ -2,7 +2,7 @@ import random
 import copy
 import math
 import time
-import chess
+# import chess
 
 
 def C2n(n):
